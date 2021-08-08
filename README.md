@@ -6,4 +6,5 @@ https://arxiv.org/abs/1504.06375
 
 参考项目：
 https://github.com/s9xie/hed 精度:ODS=0.782 (官方论文)
+
 https://github.com/sniklaus/pytorch-hed 精度:ODS=0.774
